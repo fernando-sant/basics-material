@@ -33,57 +33,83 @@
 \newtheorem{exer}{Exercise}
 \newtheorem{note}{Note}
 \begin{document}
-\setcounter{section}{8}
-\title{Chapter 9 Review Notes}
+\setcounter{section}{0}
+\title{Notas sobre Equacoes de Maxwell}
 
 \thispagestyle{empty}
 
 \begin{center}
-{\LARGE \bf Chapter 9 Review Notes}\\
-{\large Physics 400}\\
-Fall 2016
+{\LARGE \bf Notas sobre Equacoes de Maxwell}\\
+{\large BasiCS Physics Program}\\
+2022 - 2023
 \end{center}
-\section{Mechanics in Non-inertial Reference Frames}
-\subsection{Acceleration Without Rotation}
-Consider an inertial reference frame (i.e not accelerating) which will be denoted S$_0$, and a accelerating reference frame, \textit{S} that has an acceleration of \textit{A}. 
+\section{Revisao de analise vetorial}
+\subsection{O operador $\vec{\nabla}$}
 \begin{note}
-\textbf{Capital Letters refer to the accelerating reference frame \textit{S} while lowercase letters refer to the inertial reference frame S$_0$}
+\textbf{Neste texto, ate que se mencione diferentemente, consideraremos o conjunto de coordenadas cartesianas ($\hat{x}$, $\hat{y}$, $\hat{z}$). Para as
+operacoes vetoriais, utilizaremos $\cdot$ para o produto escalar e $\times$ para o produto vetorial.}
 \end{note}
-Picture a moving reference frame, \textit{S}, moving relative to S$_0$. Imagine in the the moving reference frame that a ball with mass, \textit{m} is being thrown. 
-In order to consider the motion of the ball, the motion must be first considered in the inertial reference frame. 
-\begin{equation}
-F = m\ddot{r_0}
-\end{equation}
-Where r$_0$ is the ball's position relative to S$_0$. 
 
-Now, by considering the motion of the ball in the accelerating frame, the ball position relative to \textit{S} is \textit{R}. (It's velocity is $\dot{R}$. 
-Thus, relating \textit{R} to $r_0$, we have: 
+Como comumente apresentado nos cursos introdutorios de calculo, uma das primeiras atuacoes do operador $\vec{\nabla}$ e vista por meio do \textbf{gradiente}.
+Que, supondo um escalar $A$, possui a seguinte forma:
 \begin{equation}
-\dot{r_0} = \dot{R} + V
+\vec{\nabla} A = \left(\frac{\partial A}{\partial x}\hat{x}+\frac{\partial A}{\partial y}\hat{y}+\frac{\partial A}{\partial z}\hat{z}\right)
 \end{equation}
-Newton's second law for the inertial reference frame by differentiate and multiplying by mass is:
+Que e o gradiente de $A$ 
+
+Isto pode ser reescrito de um modo mais interessante como:
 \begin{equation}
-F_{\text{inertial}} = -mA = -m\ddot{R}
+\vec{\nabla} A = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)A
 \end{equation}
-\subsection{The Tides}
+
+O termo entre parentesis e chamado de ``del' e assim o denotamos como operador $\vec{\nabla}$:
+\begin{equation}
+\vec{\nabla} = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)
+\end{equation}
+
+\subsection{Divergente e Rotacional}
+Nesta subsecao, considere um vetor $\vec{A} = A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\hat{z}$
 \begin{shaded}
-\textbf{The Tidal Force} \newline
+\textbf{Divergente} \newline
 \begin{equation}
-F_{tide} = -GM_mm(\frac{\hat{d}}{d^2}-\frac{\hat{d_0}}{d_0^2})
+\vec{\nabla}\cdot \vec{A} = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right) \cdot (A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\hat{z})
+                          = \left(\frac{\partial A_{x}}{\partial x}+\frac{\partial A_{y}}{\partial y}+\frac{\partial A_{z}}{\partial z}\right)
 \end{equation}
-Where:
-\begin{equation*}
-\begin{split}
-G = \text{Gravitational Constant} \\
-d = \text{Object's Position Relative to Moon} \\
-d_0 = \text{Earth's Center Relative to the moon}\\
-M_m = \text{Mass of the moon}
-\end{split}
-\end{equation*}
+%Where:
+%\begin{equation*}
+%\begin{split}
+%G = \text{Gravitational Constant} \\
+%d = \text{Object's Position Relative to Moon} \\
+%d_0 = \text{Earth's Center Relative to the moon}\\
+%M_m = \text{Mass of the moon}
+%\end{split}
+%\end{equation*}
 \end{shaded}
-\newpage
-\subsection{The Angular Velocity Vecto}
-The rest of the notes and the chapter will over reference frames that are rotating with respect to the inertial reference frame, so angular velocity has to be used. 
+
+\begin{shaded}
+    \textbf{Rotacional} \newline
+    \begin{equation}
+    \vec{\nabla}\times \vec{A} = \begin{vmatrix}
+        \hat{x} & \hat{y} & \hat{z}\\ 
+        \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z}\\
+        A_{x} & A_{y} & A_{z} 
+   \end{vmatrix}
+    = \hat{x}\left(\frac{\partial A_{z}}{\partial y}-\frac{\partial A_{y}}{\partial z}\right)+\hat{y}\left(\frac{\partial A_{x}}{\partial z}-\frac{\partial A_{z}}{\partial x}\right)+\hat{z}\left(\frac{\partial A_{y}}{\partial x}-\frac{\partial A_{x}}{\partial y}\right)
+    \end{equation}
+    %Where:
+    %\begin{equation*}
+    %\begin{split}
+    %G = \text{Gravitational Constant} \\
+    %d = \text{Object's Position Relative to Moon} \\
+    %d_0 = \text{Earth's Center Relative to the moon}\\
+    %M_m = \text{Mass of the moon}
+    %\end{split}
+    %\end{equation*}
+\end{shaded}
+\subsection{O Laplaciano - $\vec{\Delta}$}
+O laplaciano consiste, basicamente, no operador `del', porem, no lugar das derivadas primeiras, utilizamos as derivadas segundas.
+Voces podem ter visto, ao longo de seu percurso ate aqui, diversas notacoes, contudo, as mais usadas sao $\vec{\Delta}$ ou $\vec{\nabla ^2}$. Entretanto,
+a notacao mais utilizada ao longo dos cursos da CentraleSupelec e $\vec{\Delta}$ e manteremos a mesma aqui neste texto.
 \begin{defn}
 \textbf{Euler's Theorem} - The most general motion of any body relative to a fixed point \textit{O} is a rotation about some axis through \textit{O} To specify this rotation about a given point O, we only have to give the direction of the axis and the rate of rotation, or angular velocity $\omega$. Because this has a magnitude and direction, it is an obvious choice to write this rotation vector as $\omega$, the angular velocity vector. That is:
 \begin{equation}
