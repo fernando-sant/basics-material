@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.4)  4 JUL 2022 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  5 JUL 2022 20:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -783,49 +783,44 @@ Package lastpage Info: Please have a look at the pageslts package at
 
 \Hy@linkcounter=\count358
 \c@lstlisting=\count359
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
  (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 48.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 47.
  (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \hbox (3.32103pt too wide) in paragraph at lines 48--49
-\OT1/cmr/m/n/10.95 Consider an inertial reference frame (i.e not accelerating) which will be denoted S$[]$, and a accelerating
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 [1
 
-{/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] [2]
-Overfull \hbox (14.5995pt too wide) in paragraph at lines 154--156
-\OT1/cmr/m/n/10.95 The maximum acceleration, \OT1/cmr/m/it/10.95 a \OT1/cmr/m/n/10.95 that the Coriolis force could produce acting by itself with \OT1/cmr/m/it/10.95 v \OT1/cmr/m/n/10.95 perpendicular
- []
-
-[3] 
+{/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] 
 AED: lastpage setting LastPage
-[4] (main.aux) ) 
+[2] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 23443 strings out of 480286
- 508641 string characters out of 2886444
- 814518 words of memory out of 3000000
- 41188 multiletter control sequences out of 15000+600000
- 477851 words of font info for 60 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
- 99i,18n,104p,556b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
-</Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (4 pages, 160489 bytes).
+ 23443 strings out of 478352
+ 508648 string characters out of 2827174
+ 825308 words of memory out of 3000000
+ 41433 multiletter control sequences out of 15000+600000
+ 477937 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,10n,104p,505b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
+</Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (2 pages, 138325 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
