@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1657064937 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1657064938
-  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1657064936 6122 f9dbdace376acf03bc77021effbfa2d8 ""
+["pdflatex"] 1657140148 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1657140149
+  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1657140147 10200 f1caf9c1bd68c1741904d71b76b44b17 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1657041722 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm" 1656959576 688 37338d6ab346c2f1466b29e195316aa4 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm" 1656959577 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -8,8 +8,10 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1656958582 1004 54797486969f23fa377b128694d548df ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1656958582 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1656958582 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1656958582 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1656958582 928 2dc8d444221b7a635bb58038579b861a ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1656958582 908 2921f8a10601f252058503cc6570e581 ""
+  "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1656958582 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1656958582 940 228d6584342e91276bf566bcf9716b83 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1656958633 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm" 1656958633 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -34,8 +36,11 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1656958582 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1656958582 35752 024fb6c41858982481f6968b5fc26508 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1656958582 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1656958582 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1656958582 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1656958582 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1656958582 32587 1788b0c1c5b39540c96f5e42ccd6dae8 ""
+  "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1656958582 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii" 1656958652 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty" 1656958638 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty" 1656958638 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -184,8 +189,8 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/trimspaces/trimspaces.sty" 1656958659 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1656959540 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656958659 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "main.aux" 1657064938 825 51f4d603376fcb9f5c7f87199568575a "pdflatex"
-  "main.tex" 1657064936 6122 f9dbdace376acf03bc77021effbfa2d8 ""
+  "main.aux" 1657140149 1493 9b873de8666da3e9f53b258bd4e1ffd5 "pdflatex"
+  "main.tex" 1657140147 10200 f1caf9c1bd68c1741904d71b76b44b17 ""
   (generated)
   "main.aux"
   "main.log"

@@ -136,4 +136,73 @@ Consider the following four vectors: $\vec{A}$, $\vec{B}$, $\vec{C}$ and $\vec{E
 \textbf{To make the relations easier to read, sometimes, we may use $\vec{grad} \phi = \vec{\nabla}\phi$, $\vec{div} \vec{E}= \vec{\nabla} \cdot \vec{E}$ and $\vec{rot} \vec{E}= \vec{\nabla} \times \vec{E}$, where $\phi$ is a scalar quantity.}
 \end{note}
 \end{shaded}
+\newpage
+\section{As equacoes de Maxwell}
+\begin{note}
+    \textbf{A intencao deste texto nao e de atuar como um textbook, mas sim, apenas introduzir relacoes do mundo da eletrodinamica,
+    conhecidas como equacoes de Maxwell. Portanto, caso deseje ir mais alem, eh valida a consulta ao material: livro}
+\end{note}
+\subsection{As equacoes de Maxwell microscopicas no vacuo}
+Uma serie de experimentos conduzidos ao longo do seculo XIX, em especial por Gauss, Faraday e Maxwell, resultaram no seguinte conjunto de equacoes que,
+por sua vez, descrevem o panorama da teoria eletromagnetica que sera utilizada durante os nossos estudos iniciais na CentraleSupelec. As equacoes sao:
+\begin{shaded}
+    \textbf{Maxwell's Equations}\newline
+    Considering the electric field as $\vec{E}\left(\vec{r},t\right)$ and the magnetic field as $\vec{B}\left(\vec{r},t\right)$, where $\vec{r}$ is the position vector and $t$ indicates the time. Then one has:
+    \begin{equation}
+    \vec{\nabla} \cdot \vec{E} = \frac{1}{\epsilon_0}\rho \ \text{(Gauss' law)}
+    \end{equation}
+    \begin{equation}
+        \vec{\nabla} \cdot \vec{B} = 0 \ \text{(Gauss' law of magnetism)}
+    \end{equation}
+    \begin{equation}
+        \vec{\nabla} \times \vec{E} = -\frac{\partial \vec{B}}{\partial t} \ \text{(Faraday's law)}
+    \end{equation}
+    \begin{equation}
+        \vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial \vec{E}}{\partial t} \ \text{(Ampère - Maxwell's law)}
+    \end{equation}
+$\mu_0 = 4\pi \times 10^{-7}$H/m indicates the magnetic permeability of vacuum, $\epsilon_0 = \frac{1}{36\pi}\times 10^{-9}$F/m its electric permittivity and $\mu_0 \epsilon_0 c^2 = 1$, where $c = 3 \times 10^{8}$m/s is the speed of light in the vacuum.
+\begin{note}
+    \textbf{As you may know, $\vec{J}$ is the current density vector, then, sometimes, we may indicate the term $\vec{J_{d}} = \epsilon_0 \frac{\partial \vec{E}}{\partial t}$ at Ampère-Maxwell's equation as a `displacement current' to rewrite the equation as
+    $\vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_0 \vec{J_{d}} = \mu_0 \left(\vec{J} + \vec{J_{d}}\right)$}
+\end{note}
+\end{shaded}
+
+\subsection{How to deal with these equations?}
+\subsubsection{Obtaining $\vec{B}$ knowing $\vec{E}$}
+\begin{enumerate}[label=(\roman*)]
+    \item Write $\vec{\nabla} \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$
+    \item Use the relation: $\vec{B}(\vec{r},t) = \vec{B}(\vec{r},t_0) + \int_{t_0}^{t} \frac{\partial \vec{B}}{\partial t'}dt'$
+    \item Finally, verify the Gauss' law of magnetism: $\vec{\nabla} \cdot \vec{B} = 0$
+\end{enumerate}
+
+\subsubsection{Obtaining $\vec{E}$ knowing $\vec{B}$ and $\vec{J}$}
+\begin{enumerate}[label=(\roman*)]
+    \item Write $\vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial \vec{E}}{\partial t}$
+    \item Use the relation: $\vec{E}(\vec{r},t) = \vec{E}(\vec{r},t_0) + \int_{t_0}^{t} \frac{\partial \vec{E}}{\partial t'}dt'$
+    \item Finally, verify the Gauss' law: $\vec{\nabla} \cdot \vec{E} = \frac{1}{\epsilon_{0}}\rho$
+\end{enumerate}
+
+\begin{shaded}
+\textbf{Important concepts}
+
+    \textbf{Lorentz's force}
+    \begin{equation}
+        \vec{F} = q\left(\vec{E}+\vec{v} \times \vec{B}\right)
+    \end{equation}
+
+    \textbf{Volume current density vector}
+    
+    If the medium contains N families of charged elements, each family characterized at $\vec{r}$ and $t$ by its particular
+    density $n_{i}\left(\vec{r},t\right)$ $[m^{-3}]$ and its group speed $\vec{v_{i}}(\vec{r},t)$ $[m\cdot s^{-1}]$ considering its particules of charge $q_{i}$.
+    Then, we define the volume current density vector $\vec{J}$ as:
+    \begin{equation}
+        \vec{J} = \sum_{i=1}^{N} n_{i}q_{i}\vec{v_{i}}\ \text{in units of $[A\cdot m^{-2}]$}
+    \end{equation}
+
+    \textbf{Local Ohm's law}
+    \begin{equation}
+        \vec{J} = \sigma \vec{E}\ \text{inside an ohmic medium}
+    \end{equation}
+    Where $\sigma$ stands for the medium's electric condutivity, in units of $\Omega^{-1} \cdot m^{-1}$ or even of $S \cdot m^{-1}$
+\end{shaded}
 \end{document}
