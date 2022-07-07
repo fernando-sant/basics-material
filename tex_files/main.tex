@@ -133,7 +133,7 @@ Consider the following four vectors: $\vec{A}$, $\vec{B}$, $\vec{C}$ and $\vec{E
 \vec{\nabla} \times \left(\vec{\nabla} \times \vec{E}\right) = \vec{\nabla}\left(\vec{\nabla} \cdot \vec{E}\right) - \Delta \vec{E}
 \end{equation}
 \begin{note}
-\textbf{To make the relations easier to read, sometimes, we may use $\vec{grad} \phi = \vec{\nabla}\phi$, $\vec{div} \vec{E}= \vec{\nabla} \cdot \vec{E}$ and $\vec{rot} \vec{E}= \vec{\nabla} \times \vec{E}$, where $\phi$ is a scalar quantity.}
+\textbf{To make the relations easier to read, sometimes, we may use $\vec{grad} \phi = \vec{\nabla}\phi$, $div \vec{E}= \vec{\nabla} \cdot \vec{E}$ and $\vec{rot} \vec{E}= \vec{\nabla} \times \vec{E}$, where $\phi$ is a scalar quantity.}
 \end{note}
 \end{shaded}
 \newpage
@@ -158,7 +158,7 @@ por sua vez, descrevem o panorama da teoria eletromagnetica que sera utilizada d
         \vec{\nabla} \times \vec{E} = -\frac{\partial \vec{B}}{\partial t} \ \text{(Faraday's law)}
     \end{equation}
     \begin{equation}
-        \vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial \vec{E}}{\partial t} \ \text{(Ampère - Maxwell's law)}
+        \vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial \vec{E}}{\partial t} \ \text{(Ampère - Maxwell's equation)}
     \end{equation}
 $\mu_0 = 4\pi \times 10^{-7}$H/m indicates the magnetic permeability of vacuum, $\epsilon_0 = \frac{1}{36\pi}\times 10^{-9}$F/m its electric permittivity and $\mu_0 \epsilon_0 c^2 = 1$, where $c = 3 \times 10^{8}$m/s is the speed of light in the vacuum.
 \begin{note}
@@ -201,8 +201,34 @@ $\mu_0 = 4\pi \times 10^{-7}$H/m indicates the magnetic permeability of vacuum, 
 
     \textbf{Local Ohm's law}
     \begin{equation}
-        \vec{J} = \sigma \vec{E}\ \text{inside an ohmic medium}
+        \vec{J} = \sigma \vec{E}\ \text{(inside an ohmic medium)}
     \end{equation}
     Where $\sigma$ stands for the medium's electric condutivity, in units of $\Omega^{-1} \cdot m^{-1}$ or even of $S \cdot m^{-1}$
+\end{shaded}
+
+\subsection{Local charge conservation}
+First, we remind you of a fundamental relation in vector analysis: $div\left(\vec{rot}\vec{B}\right) = 0$ also written as $\vec{\nabla} \cdot \left(\vec{\nabla} \times \vec{B}\right) = 0$
+
+After that, we know from section 2.1 the Ampère-Maxwell's equation: $\vec{\nabla} \times \vec{B} = \mu_0 \vec{J} + \mu_o \epsilon_0 \frac{\partial \vec{E}}{\partial t}$
+
+Using the previous relation, we apply the divergence operator into Ampère-Maxwell:
+
+\begin{equation}
+    \vec{\nabla} \cdot \left(\vec{\nabla} \times \vec{B}\right) = \mu_{0}\left(\vec{\nabla} \cdot \vec{J}\right) + \mu_{0} \epsilon_{0} \left(\vec{\nabla} \cdot \frac{\partial \vec{E}}{\partial t}\right)
+\end{equation}
+
+Now, $\vec{\nabla} \cdot \left(\frac{\partial \vec{E}}{\partial t}\right) = \frac{\partial}{\partial t}\left(\vec{\nabla} \cdot \vec{E}\right)$
+
+And, using Gauss' law, we have:
+\begin{equation}
+    \vec{\nabla} \cdot \left(\frac{\partial \vec{E}}{\partial t}\right) = \frac{1}{\epsilon_{0}}\frac{\partial \rho}{\partial t}
+\end{equation}
+
+Finally, using the previous relations, we arrive at the:
+\begin{shaded}
+    \textbf{Local charge conservation equation}
+    \begin{equation}
+        \vec{\nabla} \cdot \vec{J} + \frac{\partial \rho}{\partial t} = 0
+    \end{equation}
 \end{shaded}
 \end{document}

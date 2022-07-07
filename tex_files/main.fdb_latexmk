@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1657140148 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1657140149
-  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1657140147 10200 f1caf9c1bd68c1741904d71b76b44b17 ""
+["pdflatex"] 1657153756 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1657153757
+  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1657153755 11509 5092009f2c427bc137fe04de7cf3cb3c ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1657041722 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm" 1656959576 688 37338d6ab346c2f1466b29e195316aa4 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm" 1656959577 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -189,8 +189,8 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/trimspaces/trimspaces.sty" 1656958659 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1656959540 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656958659 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "main.aux" 1657140149 1493 9b873de8666da3e9f53b258bd4e1ffd5 "pdflatex"
-  "main.tex" 1657140147 10200 f1caf9c1bd68c1741904d71b76b44b17 ""
+  "main.aux" 1657153757 1611 fd58c2f00d46885be9c3f60a3cdf1665 "pdflatex"
+  "main.tex" 1657153755 11509 5092009f2c427bc137fe04de7cf3cb3c ""
   (generated)
   "main.aux"
   "main.log"
