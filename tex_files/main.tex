@@ -43,51 +43,42 @@
 {\large BasiCS Physics Program}\\
 2022 - 2023
 \end{center}
-\section{Revisao de analise vetorial}
-\subsection{O operador $\vec{\nabla}$}
+\section{Review of vector analysis}
+\subsection{The operator $\vec{\nabla}$}
 \begin{note}
-\textbf{Neste texto, ate que se mencione diferentemente, consideraremos o conjunto de coordenadas cartesianas ($\hat{x}$, $\hat{y}$, $\hat{z}$). Para as
-operacoes vetoriais, utilizaremos $\cdot$ para o produto escalar e $\times$ para o produto vetorial.}
+\textbf{In this text, until otherwise mentioned, we will consider the set of Cartesian coordinates ($\hat{x}$, $\hat{y}$, $\hat{z}$). For the
+vector operations, we will use $\cdot$ for the scalar product and $\times$ for the vector product.}
 \end{note}
 
-Como comumente apresentado nos cursos introdutorios de calculo, uma das primeiras atuacoes do operador $\vec{\nabla}$ e vista por meio do \textbf{gradiente}.
-Que, supondo um escalar $A$, possui a seguinte forma:
+As commonly presented in introductory calculus courses, one of the first actions of the operator $\vec{\nabla}$ is seen by means of the \textbf{gradient}.
+Which, assuming a scalar $A$, has the following form:
 \begin{equation}
 \vec{\nabla} A = \left(\frac{\partial A}{\partial x}\hat{x}+\frac{\partial A}{\partial y}\hat{y}+\frac{\partial A}{\partial z}\hat{z}\right)
 \end{equation}
-Que e o gradiente de $A$ 
+Which is the gradient of $A$ 
 
-Isto pode ser reescrito de um modo mais interessante como:
+This can be rewritten in a more interesting way as:
 \begin{equation}
 \vec{\nabla} A = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)A
 \end{equation}
 
-O termo entre parentesis e chamado de ``del' e assim o denotamos como operador $\vec{\nabla}$:
+The term in parentheses is called `del' and we denote it as the $\vec{nabla}$ operator:
 \begin{equation}
 \vec{\nabla} = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)
 \end{equation}
 
-\subsection{Divergente e Rotacional}
-Nesta subsecao, considere um vetor $\vec{A} = A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\hat{z}$
+\subsection{Divergence and Curl}
+In this subsection, consider a vector $\vec{A} = A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\hat{z}$
 \begin{shaded}
-\textbf{Divergente} \newline
+\textbf{Divergence} \newline
 \begin{equation}
 \vec{\nabla}\cdot \vec{A} = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right) \cdot (A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\hat{z})
                           = \left(\frac{\partial A_{x}}{\partial x}+\frac{\partial A_{y}}{\partial y}+\frac{\partial A_{z}}{\partial z}\right)
 \end{equation}
-%Where:
-%\begin{equation*}
-%\begin{split}
-%G = \text{Gravitational Constant} \\
-%d = \text{Object's Position Relative to Moon} \\
-%d_0 = \text{Earth's Center Relative to the moon}\\
-%M_m = \text{Mass of the moon}
-%\end{split}
-%\end{equation*}
 \end{shaded}
 
 \begin{shaded}
-    \textbf{Rotacional} \newline
+    \textbf{Curl} \newline
     \begin{equation}
     \vec{\nabla}\times \vec{A} = \begin{vmatrix}
         \hat{x} & \hat{y} & \hat{z}\\ 
@@ -96,28 +87,20 @@ Nesta subsecao, considere um vetor $\vec{A} = A_{x}\hat{x}+A_{y}\hat{y}+A_{z}\ha
    \end{vmatrix}
     = \hat{x}\left(\frac{\partial A_{z}}{\partial y}-\frac{\partial A_{y}}{\partial z}\right)+\hat{y}\left(\frac{\partial A_{x}}{\partial z}-\frac{\partial A_{z}}{\partial x}\right)+\hat{z}\left(\frac{\partial A_{y}}{\partial x}-\frac{\partial A_{x}}{\partial y}\right)
     \end{equation}
-    %Where:
-    %\begin{equation*}
-    %\begin{split}
-    %G = \text{Gravitational Constant} \\
-    %d = \text{Object's Position Relative to Moon} \\
-    %d_0 = \text{Earth's Center Relative to the moon}\\
-    %M_m = \text{Mass of the moon}
-    %\end{split}
-    %\end{equation*}
 \end{shaded}
-\subsection{O Laplaciano - $\Delta$}
-O laplaciano consiste, basicamente, no operador `del', porem, no lugar das derivadas primeiras, utilizamos as derivadas segundas.
-Voces podem ter visto, ao longo de seu percurso ate aqui, diversas notacoes, contudo, as mais usadas sao $\Delta$ ou $\nabla ^2$. Entretanto,
-a notacao mais utilizada ao longo dos cursos da CentraleSupelec e $\Delta$ e manteremos a mesma aqui neste texto.
-\subsubsection{Laplaciano de um escalar}
-Considere $\phi$ uma quantidade escalar, calculemos, então, o laplaciano deste escalar:
+
+\subsection{The Laplacian - $\Delta$}
+The Laplacian consists basically of the operator `del', but instead of the first derivatives, we use the second derivatives.
+You may have seen, along the way, several notations, however, the most used are $\Delta$ or $\nabla^2$. However,
+the notation most often used throughout the CentraleSupélec courses is $\Delta$ and we will keep it the same here in this text.
+\subsubsection{Laplacian of a scalar}
+Consider $\phi$ a scalar quantity, evaluate, then, the Laplacian of this scalar:
 \begin{equation}
     \Delta \phi = \vec{\nabla} \cdot \left(\vec{\nabla} \phi\right)
                 = \frac{\partial^2 \phi}{\partial x^2}+\frac{\partial^2 \phi}{\partial y^2}+\frac{\partial^2 \phi}{\partial z^2}
 \end{equation}
-\subsubsection{Laplaciano de um vetor}
-Considere $\vec{E}$ uma quantidade vetorial, tal que $\vec{E} = E_{x}\hat{x}+E_{y}\hat{y}+E_{z}\hat{z}$. O laplaciano deste vetor é, simplesmente, o vetor com os laplacianos de cada componente escalar:
+\subsubsection{Laplacian of a vector}
+Consider $\vec{E}$ a vector quantity, such that $\vec{E} = E_{x}\hat{x}+E_{y}\hat{y}+E_{z}\hat{z}$. The Laplacian of this vector is, simply, the vector composed of the laplacian of each scalar component:
 \begin{equation}
     \Delta \vec{E} = \left(\begin{matrix}
                         \Delta E_{x} & \Delta E_{y} & \Delta E_{z}
@@ -137,14 +120,14 @@ Consider the following four vectors: $\vec{A}$, $\vec{B}$, $\vec{C}$ and $\vec{E
 \end{note}
 \end{shaded}
 \newpage
-\section{As equacoes de Maxwell}
+\section{Maxwell's Equations}
 \begin{note}
-    \textbf{A intencao deste texto nao e de atuar como um textbook, mas sim, apenas introduzir relacoes do mundo da eletrodinamica,
-    conhecidas como equacoes de Maxwell. Portanto, caso deseje ir mais alem, eh valida a consulta ao material: livro}
+    \textbf{The intention of this text is not to act as a textbook, but only to introduce relations from the world of electrodynamics,
+    known as Maxwell's equations. Therefore, if you want to go further, it is valid to consult the material: Griffiths reference}
 \end{note}
-\subsection{As equacoes de Maxwell microscopicas no vacuo}
-Uma serie de experimentos conduzidos ao longo do seculo XIX, em especial por Gauss, Faraday e Maxwell, resultaram no seguinte conjunto de equacoes que,
-por sua vez, descrevem o panorama da teoria eletromagnetica que sera utilizada durante os nossos estudos iniciais na CentraleSupelec. As equacoes sao:
+\subsection{Microscopic Maxwell's equations in the vacuum}
+A series of experiments conducted during the nineteenth century, especially by Gauss, Faraday and Maxwell, resulted in the following set of equations which,
+in turn, describe the background of the electromagnetic theory that will be used during our initial studies at CentraleSupélec. The equations are:
 \begin{shaded}
     \textbf{Maxwell's Equations}\newline
     Considering the electric field as $\vec{E}\left(\vec{r},t\right)$ and the magnetic field as $\vec{B}\left(\vec{r},t\right)$, where $\vec{r}$ is the position vector and $t$ indicates the time. Then one has:
@@ -229,6 +212,33 @@ Finally, using the previous relations, we arrive at the:
     \textbf{Local charge conservation equation}
     \begin{equation}
         \vec{\nabla} \cdot \vec{J} + \frac{\partial \rho}{\partial t} = 0
+    \end{equation}
+\end{shaded}
+
+\newpage
+\section{Poynting's Theorem}
+\begin{note}
+    \textbf{Consider that we are still working in the free space - or vacuum}
+\end{note}
+As you may have seen during the previous sections or even during your studies at you home university, it is possible to associate
+an energy density (per unit volume) to the electric ($\vec{E}$) and magnetic ($\vec{B}$) fields, defined as (consider $E$ and $B$ as the absolute value of the electric $\vec{E}$ and $\vec{B}$ fields, respectively):
+\begin{shaded}
+    \textbf{Electric energy density}
+    \begin{equation}
+        \mu_{E} = \frac{\epsilon_{0}}{2}E^2
+    \end{equation}
+
+    \textbf{Magnetic energy density}
+    \begin{equation}
+        \mu_{B} = \frac{1}{2\mu_{0}}B^2
+    \end{equation}
+\end{shaded}
+
+Then, from $(20)$ and $(21)$, we can easily infer that the total energy that can be stored in the electromagnetic field, per unit volume, is given by:
+\begin{shaded}
+    \textbf{Electromagnetic energy density}
+    \begin{equation}
+        w = \mu_{E} + \mu_{B} = \frac{\epsilon_{0}}{2}E^2 + \frac{1}{2\mu_{0}}B^2
     \end{equation}
 \end{shaded}
 \end{document}
