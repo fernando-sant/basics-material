@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  28 JUL 2022 23:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  28 JUL 2022 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1002,7 +1002,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,10n,104p,505b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
  </Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/ifsym/dpi657/ifgeo10.pk>{/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/dutchcal/DutchCalReg.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxex.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxexa.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxsy.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxb.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxmi.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxr.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplb8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplr8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (10 pages, 127081 bytes).
+Output written on main.pdf (10 pages, 127078 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1659062141 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1659062143
-  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1659062141 19948 6e6d2946610307768a1a7ad285a3b777 ""
+["pdflatex"] 1659062371 "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" "main.pdf" "main" 1659062374
+  "/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex" 1659062369 19948 65ff8c1d216623f9a268f9068e333128 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1659058701 81790 7bc4613badaf981ab3931e17960ec4fe ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/ifsym/dpi657/ifgeo10.pk" 1659057546 9364 7b98c0591015e009a983f7425908dcd8 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/ifsym/ifgeo10.tfm" 1659057545 568 f113b1f1083e9cfb4d75f545dd723123 ""
@@ -206,8 +206,8 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1656959540 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656958659 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1656958659 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "main.aux" 1659062142 1960 9fde3ddb91548348012dd06324a16413 "pdflatex"
-  "main.tex" 1659062141 19948 6e6d2946610307768a1a7ad285a3b777 ""
+  "main.aux" 1659062374 1960 9fde3ddb91548348012dd06324a16413 "pdflatex"
+  "main.tex" 1659062369 19948 65ff8c1d216623f9a268f9068e333128 ""
   (generated)
   "main.aux"
   "main.log"
