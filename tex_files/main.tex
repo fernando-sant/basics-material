@@ -66,7 +66,7 @@ This can be rewritten in a more interesting way as:
 \vec{\nabla} A = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)A
 \end{equation}
 
-The term in parentheses is called `del' and we denote it as the $\vec{nabla}$ operator:
+The term in parentheses is called `del' and we denote it as the $\vec{\nabla}$ operator:
 \begin{equation}
 \vec{\nabla} = \left(\hat{x}\frac{\partial}{\partial x}+\hat{y}\frac{\partial}{\partial y}+\hat{z}\frac{\partial}{\partial z}\right)
 \end{equation}
@@ -123,6 +123,25 @@ Consider the following four vectors: $\vec{A}$, $\vec{B}$, $\vec{C}$ and $\vec{E
 \textbf{To make the relations easier to read, sometimes, we may use $\vec{grad} \phi = \vec{\nabla}\phi$, $div \vec{E}= \vec{\nabla} \cdot \vec{E}$ and $\vec{rot} \vec{E}= \vec{\nabla} \times \vec{E}$, where $\phi$ is a scalar quantity.}
 \end{note}
 \end{shaded}
+\subsection{Must-know Theorems}
+\begin{shaded}
+    \textbf{Divergence theorem, a.k.a Ostrogradsky's theorem}\\
+    \\
+    Given $\mathcal{S}$ a closed surface (outer-oriented), $\mathcal{V}$ the volume delimited by this surface and $\vec{w}\left(\vec{r}\right)$ a vector field, we have that:
+    \begin{equation}
+        \oiint_{\mathcal{S}} \vec{w}\left(\vec{r}\right) \cdot \vec{dS} = \iiint_{\mathcal{V}}\vec{\nabla} \cdot \vec{w}\left(\vec{r}\right) \; dv
+    \end{equation}
+\end{shaded}
+
+\begin{shaded}
+    \textbf{Stokes' theorem}\\
+    \\
+    Given $\mathcal{S}$ a closed surface (outer-oriented), $\Gamma$ its contour, $\vec{dl}$ an infinitesimal length oriented along the contour $\Gamma$ and $\vec{w}\left(\vec{r}\right)$ a vector field, we have that:
+    \begin{equation}
+        \oint_{\Gamma} \vec{w}\left(\vec{r}\right) \cdot \vec{dl} = \iint_{\mathcal{S}}\left(\vec{\nabla} \times \vec{w}\left(\vec{r}\right)\right) \cdot \vec{dS}
+    \end{equation}
+\end{shaded}
+
 \newpage
 \section{Maxwell's Equations}
 \begin{note}

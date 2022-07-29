@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  28 JUL 2022 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  28 JUL 2022 23:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,56 +944,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
 [1
 
-{/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 304--310
-
- []
-
-[7]
-LaTeX Font Info:    Trying to load font information for U+dutchcal on input line 313.
+{/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] [2]
+LaTeX Font Info:    Trying to load font information for U+dutchcal on input line 130.
  (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/dutchcal/udutchcal.fd
 File: udutchcal.fd 2011/06/16 Fontinst v1.933 font definitions for U/dutchcal.
 )
 LaTeX Font Info:    Font shape `U/dutchcal/m/n' will be
-(Font)              scaled to size 10.95pt on input line 313.
+(Font)              scaled to size 10.95pt on input line 130.
 LaTeX Font Info:    Font shape `U/dutchcal/m/n' will be
-(Font)              scaled to size 8.0pt on input line 313.
+(Font)              scaled to size 8.0pt on input line 130.
 LaTeX Font Info:    Font shape `U/dutchcal/m/n' will be
-(Font)              scaled to size 6.0pt on input line 313.
-LaTeX Font Info:    Trying to load font information for U+ifgeo on input line 317.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/fonts/ifsym/uifgeo.fd)
-LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <10> not available
-(Font)              Font shape `OT1/pxr/bx/n' tried instead on input line 317.
+(Font)              scaled to size 6.0pt on input line 130.
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--321
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--321
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+
+ []
+
+[3] [4] [5] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 323--329
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 363--367
+LaTeX Font Info:    Trying to load font information for U+ifgeo on input line 336.
+ (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/fonts/ifsym/uifgeo.fd)
+LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <10> not available
+(Font)              Font shape `OT1/pxr/bx/n' tried instead on input line 336.
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--340
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 382--386
 
  []
 
 
 AED: lastpage setting LastPage
-[9] (main.aux) ) 
+[10] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 24593 strings out of 478352
- 525546 string characters out of 2827174
- 832082 words of memory out of 3000000
- 42511 multiletter control sequences out of 15000+600000
- 501385 words of font info for 123 fonts, out of 8000000 for 9000
+ 24594 strings out of 478352
+ 525562 string characters out of 2827174
+ 832086 words of memory out of 3000000
+ 42512 multiletter control sequences out of 15000+600000
+ 501666 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,10n,104p,505b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
  </Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/ifsym/dpi657/ifgeo10.pk>{/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/dutchcal/DutchCalReg.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxex.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxexa.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxsy.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxb.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxmi.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxr.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplb8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplr8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (9 pages, 124764 bytes).
+Output written on main.pdf (10 pages, 127081 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
