@@ -205,9 +205,14 @@
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/trimspaces/trimspaces.sty" 1656958659 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1656959540 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656958659 56148 51a9a8571c07b9921892ae11063ae853 ""
+<<<<<<< HEAD
   "/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1656958659 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "main.aux" 1659059773 1846 553d700c48a500b96b610c6c0ca6aa60 "pdflatex"
   "main.tex" 1659059771 18968 c57b176574250bfed020a2b891fa80af ""
+=======
+  "main.aux" 1659059852 1707 8b67272884b65e277884b94ef3b0ac90 "pdflatex"
+  "main.tex" 1659059849 12039 ae806b9c005dab76d81dc2750d4419fd ""
+>>>>>>> Minor changes
   (generated)
   "main.aux"
   "main.log"
