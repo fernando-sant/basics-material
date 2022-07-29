@@ -7,6 +7,10 @@
 \usepackage{lastpage}
 \usepackage{enumitem}
 \usepackage{fancyhdr}
+\usepackage[geometry]{ifsym}
+\newcommand{\bigexclaim}{\raisebox{-0.1em}{\BigTriangleUp}\hspace{-0.32em}\llap{\small\textbf{!}}\hspace{0.32em}}
+\usepackage{pxfonts}
+\usepackage{dutchcal}
 \usepackage{mathrsfs}
 \usepackage{wrapfig}
 \usepackage{setspace}
@@ -241,4 +245,123 @@ Then, from $(20)$ and $(21)$, we can easily infer that the total energy that can
         w = \mu_{E} + \mu_{B} = \frac{\epsilon_{0}}{2}E^2 + \frac{1}{2\mu_{0}}B^2
     \end{equation}
 \end{shaded}
+
+The question we may ask ourselves is: Given a charge distribution, how much work ($dP$) in a time interval ($dt$) is done by electromagnetic forces acting on them?
+
+To try to answer this question, first, we know that, by the definition of current and charge densities in a differential volume: $q \rightarrow \rho dv$ and $\vec{J} \rightarrow \rho \vec{v}$. On the otherhand,
+ the Lorentz's force expression gives us:
+\begin{equation}
+    \vec{F} \cdot d\vec{l} = q\left(\vec{E}+\vec{v}\times \vec{B}\right) \cdot \vec{v}dt = q\vec{E} \cdot \vec{v}dt
+\end{equation}
+
+Therefore, considering the total volume $V$ (where the charges are distributed), we arrive at:
+\begin{equation}
+    \frac{dP}{dt} = \int_{V}\vec{J} \cdot \vec{E}dv
+\end{equation}
+
+Then, a new definition arrives:
+\begin{shaded}
+    \textbf{Power density, by unit volume or Volume power}
+    \begin{equation}
+        \frac{\partial P}{\partial t} = \vec{J} \cdot \vec{E}
+    \end{equation}
+\end{shaded}
+
+Still using the Lorentz's force expression and that $q \rightarrow \rho dv$ and $\vec{J} \rightarrow \rho \vec{v}$, we can achieve another important expression, let's see:
+\begin{equation}
+    \vec{F} = q\left(\vec{E}+\vec{v} \times \vec{B}\right) = \left(\rho\left(\vec{r},t\right)\vec{E}\left(\vec{r},t\right) + \vec{J}\left(\vec{r},t\right) \times \vec{B}\left(\vec{r},t\right)\right)dv
+\end{equation}
+Thus, we get the following definition, per unit volume:
+\begin{shaded}
+    \textbf{Electromagnetic force density}
+    \begin{equation}
+        \vec{f}\left(\vec{r},t\right) = \rho\left(\vec{r},t\right)\vec{E}\left(\vec{r},t\right) + \vec{J}\left(\vec{r},t\right) \times \vec{B}\left(\vec{r},t\right)
+    \end{equation}
+So, the electromagnetic force acting on the charges inside a differential volume $dv$ around the position $\vec{r}$ is $d\vec{F} = \vec{f}\left(\vec{r},t\right)dv$
+\end{shaded}
+
+Based on the concepts defined above, we can also define an energy current density vector, that is, a vector $\vec{\Pi}\left(\vec{r},t\right)$ such that
+the electromagnetic energy that passes through an infinitesimal surface $\vec{dS}$ in a time interval $dt$ around the position $\vec{r}$ is:
+\begin{equation}
+    d^2W = \vec{\Pi}\left(\vec{r},t\right) \cdot \vec{dS}dt
+\end{equation}
+Where $dW = wdv_{r}$ is the amount of electromagnetic energy contained in an infinitesimal volume $dv_{r}$
+
+Thus, we will define this energy current density vector $\vec{\Pi}\left(\vec{r},t\right)$ as:
+\begin{shaded}
+    \textbf{Poynting's Vector}
+    \begin{equation}
+        \vec{\Pi}\left(\vec{r},t\right) = \frac{1}{\mu_{0}}\vec{E}\left(\vec{r},t\right) \times \vec{B}\left(\vec{r},t\right)
+    \end{equation}
+\end{shaded}
+
+Also, we can analyse the variation of energy inside a volume delimited by a surface, after some reasonings and calculations, one can derive an equation
+describing the local electromagnetic energy balance, also called local Poynting's equation (for a derivation of this equation, see the next subsection):
+\begin{shaded}
+    \textbf{Local Poynting's theorem - Electromagnetic energy balance}
+    \begin{equation}
+        \frac{\partial w}{\partial t}\left(\vec{r},t\right) + \vec{\nabla} \cdot \vec{\Pi}\left(\vec{r},t\right) = -\left(\vec{J} \cdot \vec{E}\right)\left(\vec{r},t\right)
+    \end{equation}
+    What do these terms mean?\newline
+    \newline
+    The first term express the variation of how much energy relays inside the considered volume, a `storage'' term;\newline
+    The second term corresponds to the energy that is transfered or displaced;\newline
+    The final one corresponds to the energy that is consumed (if the term is negative) or producted inside this volume.
+\end{shaded}
+\subsection{Extra: Obtaining the local Poynting's equation}
+
+Given a volume $\mathcal{V}$ delimited by a surface $\mathcal{S}$, the total electromagnetic energy contained inside this volume in a time $t$ can vary over the time.
+That is because some amount of energy is lost inside the volume $\mathcal{V}$ (let's use the indicator `loss') and some amount can `escape' across the surface $\mathcal{S}$ (let's use the indicator `out')  
+\newline
+\newline
+\bigexclaim \ Following the main vector analysis theorems and their convention, consider the surface $\mathcal{S}$ outer-oriented
+\newline
+\newline
+Easily, calling the total electromagnetic energy as $W$ (and that $\mathcal{P}$ stands for power) one can verify that the global power balance considering the volume $\mathcal{V}$ is given by (remember the outer-oriented surface):
+\begin{equation}
+    \frac{dW}{dt} = -\mathcal{P}_{loss}-\mathcal{P}_{out}
+\end{equation}
+Then, we can calculate each of these three terms
+
+First, the total electromagnetic energy $W$:
+\begin{equation}
+    W\left(t\right) = \iiint_{\mathcal{V}} w\left(\vec{r},t\right)\;dv
+\end{equation}
+
+Then, the power lost inside the volume $\mathcal{V}$, transfered to the charges inside it:
+\begin{equation}
+    \mathcal{P}_{loss} = \iiint_{\mathcal{V}} \left(\vec{J} \cdot \vec{E}\right)\left(\vec{r},t\right)\;dv
+\end{equation}
+
+Finally, the power going out the surface $\mathcal{S}$:
+\begin{equation}
+    \mathcal{P}_{out} = \oiint_{\mathcal{S}} \vec{\Pi} \cdot \vec{dS} = \Phi_{\Pi}
+\end{equation}
+That is the the flux of the Poynting's Vector through the surface $\mathcal{S}$
+
+Inserting the three terms calculated inside the global power balance, we arrive at:
+\begin{shaded}
+    \textbf{Global electromagnetic energy balance inside a surface $\mathcal{S}$}
+    \begin{equation}
+        \frac{d}{dt}\left(\iiint_{\mathcal{V}} w\left(\vec{r},t\right)\;dv\right) + \oiint_{\mathcal{S}} \vec{\Pi} \cdot \vec{dS} = - \iiint_{\mathcal{V}} \left(\vec{J} \cdot \vec{E}\right)\left(\vec{r},t\right)\;dv
+    \end{equation}
+\end{shaded}
+
+Using the divergence theorem (a.k.a Ostrogradsky's theorem), the second term can be replaced;
+\begin{equation}
+    \oiint_{\mathcal{S}} \vec{\Pi} \cdot \vec{dS} = \iiint_{\mathcal{V}} \vec{\nabla} \cdot \vec{\Pi}\left(\vec{r},t\right)\;dv
+\end{equation}
+
+So that,
+\begin{equation}
+    \frac{d}{dt}\left(\iiint_{\mathcal{V}} w\left(\vec{r},t\right)\;dv\right) + \iiint_{\mathcal{V}} \vec{\nabla} \cdot \vec{\Pi}\left(\vec{r},t\right)\;dv = - \iiint_{\mathcal{V}} \left(\vec{J} \cdot \vec{E}\right)\left(\vec{r},t\right)\;dv
+\end{equation}
+
+And, as this equation should be valid for all volume $\mathcal{V}$, we achieve the Local Poynting's Equation:
+\begin{equation}
+    \frac{\partial w}{\partial t}\left(\vec{r},t\right) + \vec{\nabla} \cdot \vec{\Pi}\left(\vec{r},t\right) = - \left(\vec{J} \cdot \vec{E}\right)\left(\vec{r},t\right)
+\end{equation}
+\newline
+\newline
+\bigexclaim \ \textbf{It is not} necessary to know this equation by heart, but understand what term means and understand the reasoning
 \end{document}
