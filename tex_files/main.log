@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.5)  28 JUL 2022 23:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.7.20)  10 AUG 2022 18:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex
-(/Users/fernando/Documents/Material_Maxwell/basics-material/tex_files/main.tex
-LaTeX2e <2022-06-01> patch level 3
-L3 programming layer <2022-06-16> (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+**f:/DocumentosHD/maxwell/basics-material/tex_files/main.tex
+(f:/DocumentosHD/maxwell/basics-material/tex_files/main.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size11.clo
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,25 +22,25 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen139
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen140
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count193
@@ -90,7 +90,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks23
 \thm@bodyfont=\toks24
@@ -101,28 +101,28 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip53
 \thm@headsep=\skip54
 \dth@everypar=\toks28
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amscd.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amscd.sty
 Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
 \athelp@=\toks29
 \minaw@=\dimen148
 \bigaw@=\dimen149
 \minCDarrowwidth=\dimen150
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip55
 \multirow@cntb=\count271
 \multirow@dima=\skip56
 \bigstrutjot=\dimen151
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen152
 \lightrulewidth=\dimen153
@@ -141,17 +141,17 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count274
 \@lastruleclass=\count275
 \@thisrulewidth=\dimen164
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/colortbl/colortbl.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen165
 \ar@mcellbox=\box53
@@ -163,7 +163,7 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 )
 \everycr=\toks31
 \minrowclearance=\skip59
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex-dev/graphics/mathcolor.ltx)
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
 \rownum=\count276
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
@@ -174,12 +174,12 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/preprint/fullpage.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip60
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lastpage/lastpage.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks32
 \labelindent=\skip61
@@ -188,7 +188,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box55
 \enit@count@id=\count277
 \enitdp@description=\count278
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
 \f@nch@headwidth=\skip62
 \f@nch@O@elh=\skip63
@@ -199,9 +199,9 @@ Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footer
 \f@nch@O@erf=\skip68
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/fonts/ifsym/ifsym.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/fonts/ifsym\ifsym.sty
 Package: ifsym 2000/04/18 I.Kloeckl
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count279
 \calc@Bcount=\count280
@@ -215,7 +215,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip73
 )
 \c@ifsymcnt=\count282
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/pxfonts.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\pxfonts.sty
 Package: pxfonts 2008/01/22 v1.1.1
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -302,33 +302,33 @@ LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
 LaTeX Info: Redefining \not on input line 997.
 LaTeX Info: Redefining \textsquare on input line 1017.
 LaTeX Info: Redefining \openbox on input line 1018.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/dutchcal/dutchcal.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/dutchcal\dutchcal.sty
 Package: dutchcal 2011/06/16 v1 U/dutchcal
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/keyval.tex))
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count283
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 8.
 LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
 (Font)                  U/dutchcal/m/n --> U/dutchcal/b/n on input line 9.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup10
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen170
 \WF@size=\dimen171
 \c@WF@wrappedlines=\count284
 \WF@box=\box56
 \WF@everypar=\toks36
 Package: wrapfig 2003/01/31  v 3.6
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count285
 \mult@box=\box57
@@ -396,9 +396,9 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \mult@nat@firstbox=\box100
 \colbreak@box=\box101
 \mc@col@check@num=\count294
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cancel/cancel.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ieeetrantools/IEEEtrantools.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/ieeetrantools\IEEEtrantools.sty
 Package: IEEEtrantools 2015/08/26 V1.5 by Michael Shell
 
 -- See the "IEEEtrantools_doc.txt" manual for usage information.
@@ -428,11 +428,11 @@ Package: IEEEtrantools 2015/08/26 V1.5 by Michael Shell
 \@IEEEeqncolcnt=\count300
 \@IEEEsubeqnnumrollback=\count301
 \IEEEPARstartletwidth=\dimen196
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count302
@@ -447,14 +447,14 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen259
 \Gm@layoutvoffset=\dimen260
 \Gm@dimlist=\toks38
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg))
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 \tabcont=\skip77
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mathtools/empheq.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.sty
 Package: empheq 2017/03/31 v2.15 Emphasizing equations
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mathtools/mhsetup.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 \g_MT_multlinerow_int=\count305
 \l_MT_multwidth_dim=\dimen261
 \origjot=\skip78
@@ -483,44 +483,44 @@ Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
 \EQ_mathdisplay_box=\box103
 \EQ_tag_box=\box104
 \g_EQ_temprow_int=\count309
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed/framed.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip79
 \fb@frw=\dimen279
 \fb@frh=\dimen280
 \FrameRule=\dimen281
 \FrameSep=\dimen282
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcolorbox.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2022/06/24 version 5.1.1 text color boxes
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks39
 \pgfutil@tempdima=\dimen283
 \pgfutil@tempdimb=\dimen284
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box105
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
 \Gin@req@height=\dimen285
 \Gin@req@width=\dimen286
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks40
 \pgfkeys@temptoks=\toks41
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks42
 ))
 \pgf@x=\dimen287
@@ -543,32 +543,32 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \t@pgf@tokb=\toks44
 \t@pgf@tokc=\toks45
 \pgf@sys@id@count=\count314
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-))) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count315
 \pgfsyssoftpath@bigbuffer@items=\count316
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen297
 \pgfmath@count=\count317
 \pgfmath@box=\box106
 \pgfmath@toks=\toks46
 \pgfmath@stack@operand=\toks47
 \pgfmath@stack@operation=\toks48
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count318
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen298
 \pgf@picmaxx=\dimen299
@@ -584,76 +584,76 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yy=\dimen309
 \pgf@zx=\dimen310
 \pgf@zy=\dimen311
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen312
 \pgf@path@lasty=\dimen313
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen314
 \pgf@shorten@start@additional=\dimen315
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box107
 \pgf@hbox=\box108
 \pgf@layerbox@main=\box109
 \pgf@picture@serial@count=\count319
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen316
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen317
 \pgf@pt@y=\dimen318
 \pgf@pt@temp=\dimen319
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen320
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen321
 \pgf@sys@shading@range@num=\count320
 \pgf@shadingcount=\count321
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box110
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+))) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box111
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen322
 \pgf@nodesepend=\dimen323
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks49
 \verbatim@line=\toks50
 \verbatim@in@stream=\read3
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/environ/environ.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/trimspaces/trimspaces.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count322
 )
@@ -668,24 +668,24 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box117
 \tcb@temp=\box118
 \tcb@temp=\box119
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbraster.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
 Library (tcolorbox): 'tcbraster.code.tex' version '5.1.1'
 \c@tcbrastercolumn=\count326
 \c@tcbrasterrow=\count327
 \c@tcbrasternum=\count328
 \c@tcbraster=\count329
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbskins.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen324
 \pgffor@skip=\dimen325
 \pgffor@stack=\toks51
 \pgffor@toks=\toks52
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count330
 \pgfplotmarksize=\dimen326
@@ -706,47 +706,47 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofchildren=\count332
 \tikznumberofcurrentchild=\count333
 \tikz@fig@count=\count334
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count335
 \pgfmatrixcurrentcolumn=\count336
 \pgf@matrix@numberofcolumns=\count337
 )
 \tikz@expandcount=\count338
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 \tcb@waterbox=\box124
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.1.1'
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbbreakable.code.tex
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/pdfcol.sty
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
 Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box125
 \tcb@totalupperbox=\box126
 \tcb@totallowerbox=\box127
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbhooks.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
 Library (tcolorbox): 'tcbhooks.code.tex' version '5.1.1'
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbtheorems.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
 Library (tcolorbox): 'tcbtheorems.code.tex' version '5.1.1'
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbfitting.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
 Library (tcolorbox): 'tcbfitting.code.tex' version '5.1.1'
 \tcbfitdim=\dimen335
 \tcb@lowerfitdim=\dimen336
 \tcb@upperfitdim=\dimen337
 \tcb@cur@hbadness=\count339
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
 Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcblistings.code.tex
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count340
 \lst@gtempboxa=\box128
 \lst@token=\toks53
@@ -759,46 +759,46 @@ Library (tcolorbox): 'tcblistings.code.tex' version '5.1.1'
 \lst@newlines=\count344
 \lst@lineno=\count345
 \lst@maxwidth=\dimen341
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count346
 \lst@skipnumbers=\count347
 \lst@framebox=\box129
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcblistingscore.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
 Library (tcolorbox): 'tcblistingscore.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbprocessing.code.tex
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
 Library (tcolorbox): 'tcbprocessing.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/shellesc.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
 \c@tcblisting=\count348
-)) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listingsutf8/listingsutf8.sty
+)) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/stringenc/stringenc.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)))) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbexternal.code.tex
+)))) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
 Library (tcolorbox): 'tcbexternal.code.tex' version '5.1.1'
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbmagazine.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
 Library (tcolorbox): 'tcbmagazine.code.tex' version '5.1.1'
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbvignette.code.tex
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
 Library (tcolorbox): 'tcbvignette.code.tex' version '5.1.1'
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tcolorbox/tcbposter.code.tex
+))) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '5.1.1'
 ))
 \c@defn=\count349
@@ -806,10 +806,10 @@ Library (tcolorbox): 'tcbposter.code.tex' version '5.1.1'
 \c@exer=\count351
 \c@note=\count352
 LaTeX Font Info:    Trying to load font information for OT1+pxr on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/ot1pxr.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\ot1pxr.fd
 File: ot1pxr.fd 2000/12/14 v1.0
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count353
 \l__pdf_internal_box=\box130
 ) (main.aux)
@@ -817,13 +817,13 @@ File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
 
 LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 39.
 LaTeX Font Info:    Trying to load font information for OML+pxmi on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/omlpxmi.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omlpxmi.fd
 File: omlpxmi.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for OMS/pxsy/m/n on input line 39.
 LaTeX Font Info:    Trying to load font information for OMS+pxsy on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/omspxsy.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omspxsy.fd
 File: omspxsy.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 39.
@@ -835,17 +835,17 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for OMX/pxex/m/n on input line 39.
 LaTeX Font Info:    Trying to load font information for OMX+pxex on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/omxpxex.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\omxpxex.fd
 File: omxpxex.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for U/pxexa/m/n on input line 39.
 LaTeX Font Info:    Trying to load font information for U+pxexa on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/upxexa.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxexa.fd
 File: upxexa.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 39.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count354
 \scratchdimen=\dimen342
@@ -858,10 +858,10 @@ LaTeX Font Info:    ... okay on input line 39.
 \MPnumerator=\count358
 \makeMPintoPDFobject=\count359
 \everyMPtoPDFconversion=\toks55
-) (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
@@ -911,23 +911,23 @@ LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <12> not available
 (Font)              Font shape `OT1/pxr/bx/n' tried instead on input line 51.
 LaTeX Font Info:    Trying to load font information for U+pxsya on input line 51.
-(/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/upxsya.fd
+(C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxsya.fd
 File: upxsya.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+pxsyb on input line 51.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/upxsyb.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxsyb.fd
 File: utxsyb.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+pxmia on input line 51.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/upxmia.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxmia.fd
 File: upxmia.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+pxsyc on input line 51.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pxfonts/upxsyc.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/pxfonts\upxsyc.fd
 File: upxsyc.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 51.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <10.95> not available
@@ -944,9 +944,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
 [1
 
-{/Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] [2]
+{C:/Users/Fernando Santiago/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for U+dutchcal on input line 130.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/latex/dutchcal/udutchcal.fd
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/latex/dutchcal\udutchcal.fd
 File: udutchcal.fd 2011/06/16 Fontinst v1.933 font definitions for U/dutchcal.
 )
 LaTeX Font Info:    Font shape `U/dutchcal/m/n' will be
@@ -972,7 +972,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 323--329
 
 [8]
 LaTeX Font Info:    Trying to load font information for U+ifgeo on input line 336.
- (/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/tex/fonts/ifsym/uifgeo.fd)
+ (C:\Users\Fernando Santiago\AppData\Local\Programs\MiKTeX\tex/fonts/ifsym\uifgeo.fd)
 LaTeX Font Info:    Font shape `OT1/pxr/b/n' in size <10> not available
 (Font)              Font shape `OT1/pxr/bx/n' tried instead on input line 336.
 
@@ -994,15 +994,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 382--386
 AED: lastpage setting LastPage
 [10] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 24594 strings out of 478352
- 525562 string characters out of 2827174
- 832086 words of memory out of 3000000
- 42512 multiletter control sequences out of 15000+600000
+ 24627 strings out of 478338
+ 522628 string characters out of 2831000
+ 832538 words of memory out of 3000000
+ 42555 multiletter control sequences out of 15000+600000
  501666 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,104p,505b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
- </Users/fernando/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/ifsym/dpi657/ifgeo10.pk>{/Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/dutchcal/DutchCalReg.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxex.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxexa.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/pxsy.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxb.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxmi.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/pxfonts/rpxr.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplb8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplr8a.pfb></Users/fernando/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (10 pages, 127078 bytes).
+ 99i,10n,104p,486b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Fernando Santiago\AppData\Local\MiKTeX\fonts/pk/ljfour/public/ifsym/dpi657\ifgeo10.pk>{C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/dutchcal/DutchCalReg.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/pxex.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/pxexa.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/pxsy.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/rpxb.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/rpxmi.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/public/pxfonts/rpxr.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Fernando Santiago/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (10 pages, 127459 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
